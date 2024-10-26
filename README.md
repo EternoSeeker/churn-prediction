@@ -1,5 +1,3 @@
-Here’s a concise `README.md` file for your Customer Churn Analysis Dashboard project:
-
 # Customer Churn Analysis Dashboard
 
 This project is a web-based dashboard for analyzing customer churn in a telecommunications company. It allows users to explore customer demographics, service usage, financial metrics, and predict the likelihood of customer churn based on input data.
